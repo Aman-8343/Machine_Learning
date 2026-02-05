@@ -1,7 +1,7 @@
 # 🚀 Machine Learning Learning Journey
 
 Welcome to my **Machine Learning Learning Repository** 🎯  
-This repo contains my complete journey of learning **Machine Learning from scratch**, including  code, projects, and practice notebooks.
+This repo contains my complete journey of learning **Machine Learning from scratch**, including notes, code, projects, and practice notebooks.
 
 ---
 
